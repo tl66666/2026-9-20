@@ -51,5 +51,5 @@ Expected: FAIL with missing `index.html`
 
 - [x] **Step 1: 在 1440x1000 和 390x844 视口截图验收**
 - [x] **Step 2: 点击拆信、吹蜡烛并验证状态更新**
-- [ ] **Step 3: 运行 `git diff --check` 与 `npm test`**
-- [ ] **Step 4: 推送 `main` 并启用 GitHub Pages**
+- [x] **Step 3: 运行 `git diff --check` 与 `npm test`**
+- [x] **Step 4: 推送 `main` 并启用 GitHub Pages**
